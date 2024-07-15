@@ -4,5 +4,6 @@ This project is a sample project of how to create a Telegram Bot leveraging LLM 
 
 The Knolege base used is the FAQ from Data Talks Zoomcamps
 
-### Usage prints
+## Usage prints
 
+<img src=".attachments/ZoomCampFAQ-firstiteration.png" width="400">
